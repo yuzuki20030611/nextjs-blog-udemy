@@ -62,7 +62,7 @@ export default function Home({ allPostData }: { allPostData: PostData[] }) {
       </Head>
           <section className={utilStyles.headingMd}>
             <p>
-              わたしはエンジニアになるために学習をしている者です。
+              わたしはエンジニアになるためにNextjsを学習をしている者です。
             </p>
           </section>
 
